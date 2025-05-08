@@ -1,0 +1,736 @@
+{
+    "questions": [
+        {
+            "question": "What does a single yellow line along the edge of the road mean?",
+            "options": [
+                {
+                    "A": "No entry at all times",
+                    "B": "Waiting restricted at certain times",
+                    "C": "Loading is prohibited",
+                    "D": "Parking allowed anytime"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What does a single yellow line along the edge of the road mean?",
+            "options": [
+                {
+                    "A": "No entry at all times",
+                    "B": "Waiting restricted at certain times",
+                    "C": "Loading is prohibited",
+                    "D": "Parking allowed anytime"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What should you do before making a U-turn?",
+            "options": [
+                {
+                    "A": "Signal only",
+                    "B": "Look over your left shoulder",
+                    "C": "Check mirrors, signal, and ensure the road is clear",
+                    "D": "Sound your horn"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "Why should you avoid driving through deep water?",
+            "options": [
+                {
+                    "A": "It reduces visibility",
+                    "B": "It damages tyres",
+                    "C": "It can cause engine failure",
+                    "D": "It wastes fuel"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What should you do if another driver flashes their headlights at you?",
+            "options": [
+                {
+                    "A": "Assume they’re giving way",
+                    "B": "Ignore them",
+                    "C": "Be cautious – check their intent",
+                    "D": "Flash back"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "On icy roads, how should you drive?",
+            "options": [
+                {
+                    "A": "Slowly, in high gear",
+                    "B": "Fast, in low gear",
+                    "C": "Quickly to avoid skidding",
+                    "D": "With hazard lights on"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "What does a red X above a motorway lane indicate?",
+            "options": [
+                {
+                    "A": "Slow lane",
+                    "B": "Emergency lane",
+                    "C": "Lane closed – do not use",
+                    "D": "Overtaking only"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What is meant by ‘aquaplaning’?",
+            "options": [
+                {
+                    "A": "Losing grip on wet surface",
+                    "B": "Reversing incorrectly",
+                    "C": "Overheating brakes",
+                    "D": "Overinflated tyres"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "You are driving behind a large vehicle. What should you do when approaching a roundabout?",
+            "options": [
+                {
+                    "A": "Drive close to the back of it",
+                    "B": "Keep well back to see ahead",
+                    "C": "Overtake immediately",
+                    "D": "Honk to alert the driver"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What does a green traffic light mean?",
+            "options": [
+                {
+                    "A": "Go immediately",
+                    "B": "Go if the way is clear",
+                    "C": "Stop if you're turning",
+                    "D": "Speed up"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What should you do if you see loose chippings on the road?",
+            "options": [
+                {
+                    "A": "Drive normally",
+                    "B": "Brake harshly",
+                    "C": "Slow down",
+                    "D": "Turn on full beam"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What is the purpose of red lines on the side of a road (Red Route)?",
+            "options": [
+                {
+                    "A": "Bus lane",
+                    "B": "No stopping at any time",
+                    "C": "No parking between 9–5",
+                    "D": "Loading zone"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "When can you enter a bus lane?",
+            "options": [
+                {
+                    "A": "When taxis are present",
+                    "B": "When empty",
+                    "C": "Only during permitted times",
+                    "D": "When turning right"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What’s the benefit of keeping your vehicle well-maintained?",
+            "options": [
+                {
+                    "A": "Faster driving",
+                    "B": "Reduced braking distances",
+                    "C": "Better radio quality",
+                    "D": "Less weight"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "You approach a zebra crossing and pedestrians are waiting. What should you do?",
+            "options": [
+                {
+                    "A": "Keep going",
+                    "B": "Honk to warn them",
+                    "C": "Slow and stop to give way",
+                    "D": "Speed up"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "How should you deal with a long, steep downhill slope?",
+            "options": [
+                {
+                    "A": "Use low gear and controlled braking",
+                    "B": "Ride the clutch",
+                    "C": "Use only the footbrake",
+                    "D": "Coast in neutral"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "What is the safest way to navigate a bend?",
+            "options": [
+                {
+                    "A": "Brake during the turn",
+                    "B": "Accelerate early",
+                    "C": "Brake before entering",
+                    "D": "Stay in the middle of the road"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "When are you allowed to use full beam headlights?",
+            "options": [
+                {
+                    "A": "On well-lit roads",
+                    "B": "When no one is in front or approaching",
+                    "C": "In busy city areas",
+                    "D": "During the day"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What should you do if you see flashing amber lights near a school?",
+            "options": [
+                {
+                    "A": "Maintain speed",
+                    "B": "Overtake if safe",
+                    "C": "Reduce speed and be cautious",
+                    "D": "Stop immediately"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What does a 'no through road' sign indicate?",
+            "options": [
+                {
+                    "A": "Narrow road",
+                    "B": "End of dual carriageway",
+                    "C": "Road does not continue",
+                    "D": "Parking available"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What type of crossing has sensors to detect pedestrians?",
+            "options": [
+                {
+                    "A": "Zebra",
+                    "B": "Toucan",
+                    "C": "Puffin",
+                    "D": "Pelican"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What should you do before driving through a tunnel?",
+            "options": [
+                {
+                    "A": "Take off sunglasses",
+                    "B": "Increase speed",
+                    "C": "Overtake slow vehicles",
+                    "D": "Put on full beam"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "When is it acceptable to drive over a pavement?",
+            "options": [
+                {
+                    "A": "To park quickly",
+                    "B": "To turn into a driveway",
+                    "C": "To overtake",
+                    "D": "To avoid traffic"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Which vehicles use blue flashing lights?",
+            "options": [
+                {
+                    "A": "Police and fire services",
+                    "B": "School buses",
+                    "C": "Taxis",
+                    "D": "Milk delivery vans"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "How often should you check your vehicle's oil level?",
+            "options": [
+                {
+                    "A": "Monthly",
+                    "B": "Weekly",
+                    "C": "Annually",
+                    "D": "When fuel is low"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Why is a good seating position important?",
+            "options": [
+                {
+                    "A": "For better mirror visibility",
+                    "B": "For comfort",
+                    "C": "For styling",
+                    "D": "For heating"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "What is the typical speed limit on a dual carriageway (unless otherwise stated)?",
+            "options": [
+                {
+                    "A": "50 mph",
+                    "B": "60 mph",
+                    "C": "70 mph",
+                    "D": "80 mph"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "When must you use dipped headlights during daylight?",
+            "options": [
+                {
+                    "A": "Always",
+                    "B": "When visibility is seriously reduced",
+                    "C": "In urban areas",
+                    "D": "At high speeds"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What does a white arrow on a blue circle mean?",
+            "options": [
+                {
+                    "A": "Advisory instruction",
+                    "B": "Mandatory direction",
+                    "C": "Parking instruction",
+                    "D": "Warning sign"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Why is coasting in neutral gear not advised?",
+            "options": [
+                {
+                    "A": "Wastes fuel",
+                    "B": "Increases control",
+                    "C": "Reduces braking and steering control",
+                    "D": "Improves stopping"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What should you do before entering a one-way street?",
+            "options": [
+                {
+                    "A": "Check mirrors only",
+                    "B": "Reverse into it",
+                    "C": "Check signs and ensure you're entering the correct way",
+                    "D": "Use full beam"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "Why should you slow down at a hump bridge?",
+            "options": [
+                {
+                    "A": "Visibility may be limited",
+                    "B": "To save fuel",
+                    "C": "To overtake",
+                    "D": "To change lanes"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "What is the purpose of box junctions?",
+            "options": [
+                {
+                    "A": "To allow parking",
+                    "B": "To prevent congestion in intersections",
+                    "C": "To allow U-turns",
+                    "D": "For bus stops"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What does a solid white line at the side of the road indicate?",
+            "options": [
+                {
+                    "A": "Cycle lane",
+                    "B": "Edge of the carriageway",
+                    "C": "Hazard area",
+                    "D": "Hard shoulder"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Why should you keep both hands on the wheel?",
+            "options": [
+                {
+                    "A": "To rest arms",
+                    "B": "To improve control",
+                    "C": "To improve speed",
+                    "D": "To reduce fuel use"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "If you are dazzled by headlights behind you, what should you do?",
+            "options": [
+                {
+                    "A": "Brake suddenly",
+                    "B": "Speed up",
+                    "C": "Adjust rear-view mirror to anti-dazzle position",
+                    "D": "Flash your lights"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "When should you avoid using your horn?",
+            "options": [
+                {
+                    "A": "In cities",
+                    "B": "In narrow streets",
+                    "C": "Between 11:30pm and 7:00am in built-up areas (except for danger)",
+                    "D": "On motorways"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What should you do if you're being overtaken?",
+            "options": [
+                {
+                    "A": "Move right",
+                    "B": "Speed up",
+                    "C": "Stay steady or slow slightly",
+                    "D": "Brake hard"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What does the term 'blind spot' refer to?",
+            "options": [
+                {
+                    "A": "Behind your car",
+                    "B": "Area not seen in mirrors",
+                    "C": "Around the tyres",
+                    "D": "Passenger side"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Why should you increase the gap in wet conditions?",
+            "options": [
+                {
+                    "A": "For clearer vision",
+                    "B": "For less stress",
+                    "C": "To account for longer stopping distances",
+                    "D": "For smoother drive"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What does a red circular sign with a motorcycle and car mean?",
+            "options": [
+                {
+                    "A": "No overtaking",
+                    "B": "No entry for motor vehicles",
+                    "C": "No parking",
+                    "D": "End of speed limit"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "When should hazard lights be used?",
+            "options": [
+                {
+                    "A": "In the rain",
+                    "B": "When parked at night",
+                    "C": "When stopped due to emergency or obstruction",
+                    "D": "In slow-moving traffic"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "When should you use your rear fog lights?",
+            "options": [
+                {
+                    "A": "At dusk",
+                    "B": "During heavy fog",
+                    "C": "In tunnels",
+                    "D": "When reversing"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What is the effect of under-inflated tyres?",
+            "options": [
+                {
+                    "A": "Better grip",
+                    "B": "Higher fuel consumption",
+                    "C": "Improved speed",
+                    "D": "Better suspension"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "Where would you find the greatest risk of ice on the road?",
+            "options": [
+                {
+                    "A": "On hills",
+                    "B": "In shaded areas",
+                    "C": "In sunny areas",
+                    "D": "Near buildings"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What is the best way to deal with fatigue on a long journey?",
+            "options": [
+                {
+                    "A": "Drink coffee",
+                    "B": "Open windows",
+                    "C": "Stop and take a break",
+                    "D": "Eat chocolate"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "Why is it dangerous to drive with worn tyres?",
+            "options": [
+                {
+                    "A": "Causes poor appearance",
+                    "B": "Reduces traction",
+                    "C": "Makes the car noisy",
+                    "D": "Affects engine"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What does a brown road sign indicate?",
+            "options": [
+                {
+                    "A": "Diversion",
+                    "B": "Tourist information",
+                    "C": "Emergency exit",
+                    "D": "Temporary roadwork"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "When driving on country roads, what should you expect?",
+            "options": [
+                {
+                    "A": "Wide lanes",
+                    "B": "Speed cameras",
+                    "C": "Sharp bends and hidden entrances",
+                    "D": "Traffic lights"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What does a ‘give way’ sign mean?",
+            "options": [
+                {
+                    "A": "You must stop",
+                    "B": "You have priority",
+                    "C": "You must yield to other traffic",
+                    "D": "You can park"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "Where should you avoid overtaking?",
+            "options": [
+                {
+                    "A": "On clear straight roads",
+                    "B": "At pedestrian crossings",
+                    "C": "On dual carriageways",
+                    "D": "In daylight"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "When should you flash your headlights at other road users?",
+            "options": [
+                {
+                    "A": "To give them right of way",
+                    "B": "To warn them of your presence",
+                    "C": "To let them pull out",
+                    "D": "To show your anger"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What should you do if your vehicle starts to skid?",
+            "options": [
+                {
+                    "A": "Accelerate hard",
+                    "B": "Steer into the skid",
+                    "C": "Brake sharply",
+                    "D": "Steer away from the skid"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "What is the correct lane for normal driving on a motorway?",
+            "options": [
+                {
+                    "A": "Right lane",
+                    "B": "Middle lane",
+                    "C": "Hard shoulder",
+                    "D": "Left lane"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "question": "What is a toucan crossing?",
+            "options": [
+                {
+                    "A": "For cyclists only",
+                    "B": "For pedestrians only",
+                    "C": "For pedestrians and cyclists",
+                    "D": "For animals"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "When is it legal to use a hand-held mobile phone while driving?",
+            "options": [
+                {
+                    "A": "In a traffic jam",
+                    "B": "While reversing",
+                    "C": "Never",
+                    "D": "When safely parked"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "question": "What should you do if you feel drowsy while driving?",
+            "options": [
+                {
+                    "A": "Increase volume of music",
+                    "B": "Drive faster",
+                    "C": "Open window",
+                    "D": "Stop and rest"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "question": "How far should you park from a junction?",
+            "options": [
+                {
+                    "A": "At least 5 metres",
+                    "B": "At least 10 metres",
+                    "C": "At least 20 metres",
+                    "D": "At least 30 metres"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "question": "You see a triangle sign with a car and skid marks. What does it mean?",
+            "options": [
+                {
+                    "A": "Road is slippery",
+                    "B": "Tyres need replacing",
+                    "C": "Loose chippings",
+                    "D": "Fog ahead"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "What should you do if your engine catches fire while driving?",
+            "options": [
+                {
+                    "A": "Open the bonnet",
+                    "B": "Drive faster",
+                    "C": "Pull over, turn off engine, get out",
+                    "D": "Pour water on it"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What should you carry in your car in case of emergency?",
+            "options": [
+                {
+                    "A": "Spare keys",
+                    "B": "Phone charger",
+                    "C": "Warning triangle and reflective jacket",
+                    "D": "Sunglasses"
+                }
+            ],
+            "correct_answer": "C"
+    }
+    ]
+}
