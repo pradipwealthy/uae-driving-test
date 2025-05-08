@@ -731,6 +731,846 @@
                 }
             ],
             "correct_answer": "C"
+    },
+    {
+        "question": "What should you do if you hit a parked car and no one is around?",
+        "options": [
+            {
+                "A": "Leave the scene",
+                "B": "Call your insurance",
+                "C": "Report it to police or leave contact details",
+                "D": "Do nothing"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What should you do if your tyre bursts on the motorway?",
+        "options": [
+            {
+                "A": "Brake harshly",
+                "B": "Hold the steering firmly and slow down gradually",
+                "C": "Speed up to avoid others",
+                "D": "Swerve to the hard shoulder"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where are you most likely to encounter a cyclist?",
+        "options": [
+            {
+                "A": "Motorway",
+                "B": "Country lane",
+                "C": "City roads and near junctions",
+                "D": "One-way street"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does an amber traffic light mean?",
+        "options": [
+            {
+                "A": "Stop unless unsafe",
+                "B": "Go quickly",
+                "C": "Proceed with caution",
+                "D": "Stop immediately"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the colour of the central reflective studs on a motorway?",
+        "options": [
+            {
+                "A": "White",
+                "B": "Green",
+                "C": "Red",
+                "D": "Amber"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What should you do when driving past a parked car with its hazard lights on?",
+        "options": [
+            {
+                "A": "Flash your lights",
+                "B": "Sound your horn",
+                "C": "Slow down and be ready to stop",
+                "D": "Speed past quickly"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "How can you prevent your vehicle being stolen?",
+        "options": [
+            {
+                "A": "Leave windows open",
+                "B": "Leave keys in the ignition",
+                "C": "Use an immobiliser and lock the car",
+                "D": "Leave engine running"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "You see a solid white line at the side of the road. What does it indicate?",
+        "options": [
+            {
+                "A": "Road edge",
+                "B": "No entry",
+                "C": "Central reservation",
+                "D": "Overtaking allowed"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does a yellow box junction mean?",
+        "options": [
+            {
+                "A": "No stopping at any time",
+                "B": "No overtaking",
+                "C": "Must not enter unless your exit is clear",
+                "D": "No parking"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "When should you dip your headlights?",
+        "options": [
+            {
+                "A": "When overtaking",
+                "B": "When driving at dusk",
+                "C": "When behind another vehicle or facing oncoming traffic",
+                "D": "On the motorway"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the main benefit of a properly adjusted head restraint?",
+        "options": [
+            {
+                "A": "Better visibility",
+                "B": "Improved driving posture",
+                "C": "Prevent whiplash",
+                "D": "Comfort"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does this sign mean? (Red triangle with deer)",
+        "options": [
+            {
+                "A": "Zoo nearby",
+                "B": "Wild animals likely",
+                "C": "Farm animals crossing",
+                "D": "Petting farm"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "If you see an elderly person about to cross the road, what should you do?",
+        "options": [
+            {
+                "A": "Rev your engine",
+                "B": "Wave them across",
+                "C": "Be patient and allow time to cross",
+                "D": "Drive around them"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the stopping distance at 70 mph on a dry road?",
+        "options": [
+            {
+                "A": "53 metres",
+                "B": "73 metres",
+                "C": "96 metres",
+                "D": "122 metres"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "When are anti-lock brakes most effective?",
+        "options": [
+            {
+                "A": "When driving slowly",
+                "B": "During dry weather",
+                "C": "During emergency braking",
+                "D": "At junctions"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is meant by 'tailgating'?",
+        "options": [
+            {
+                "A": "Driving with a trailer",
+                "B": "Driving too close to the vehicle in front",
+                "C": "Being followed by emergency services",
+                "D": "Aggressive overtaking"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "You’re on a wet road. What is the minimum safe following distance?",
+        "options": [
+            {
+                "A": "1 second",
+                "B": "2 seconds",
+                "C": "3 seconds",
+                "D": "4 seconds"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "What should you do when a driver behind is trying to overtake?",
+        "options": [
+            {
+                "A": "Speed up",
+                "B": "Hold your position",
+                "C": "Let them pass safely",
+                "D": "Move to middle of the road"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Why should tyres be inflated to the correct pressure?",
+        "options": [
+            {
+                "A": "For better braking",
+                "B": "For comfort",
+                "C": "To avoid burst tyres and improve handling",
+                "D": "To reduce visibility"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does a red circular sign with a white horizontal line mean?",
+        "options": [
+            {
+                "A": "Stop",
+                "B": "No entry",
+                "C": "Roundabout ahead",
+                "D": "One way"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "You're in the right lane at a red light. The signal shows a green arrow pointing right. What must you do?",
+        "options": [
+            {
+                "A": "Wait for green",
+                "B": "Turn right only",
+                "C": "Go straight",
+                "D": "Ignore the arrow"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the maximum penalty for driving without insurance?",
+        "options": [
+            {
+                "A": "Verbal warning",
+                "B": "£100 fine",
+                "C": "Disqualification and unlimited fine",
+                "D": "Community service"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the minimum age for a supervising driver of a learner?",
+        "options": [
+            {
+                "A": "18",
+                "B": "19",
+                "C": "20",
+                "D": "21"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "What should you do at a level crossing if red lights are flashing?",
+        "options": [
+            {
+                "A": "Proceed with caution",
+                "B": "Stop and wait",
+                "C": "Accelerate to cross quickly",
+                "D": "Sound horn"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does this sign mean: Blue circle with white downward arrow?",
+        "options": [
+            {
+                "A": "No parking",
+                "B": "Keep left",
+                "C": "No U-turn",
+                "D": "Give way"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "When should you not overtake a cyclist?",
+        "options": [
+            {
+                "A": "When approaching a junction",
+                "B": "On a straight road",
+                "C": "On a motorway",
+                "D": "When going uphill"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "When can you use the hard shoulder?",
+        "options": [
+            {
+                "A": "During congestion",
+                "B": "When directed or in emergency",
+                "C": "At all times",
+                "D": "To park temporarily"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does an amber flashing beacon on a vehicle indicate?",
+        "options": [
+            {
+                "A": "Emergency services",
+                "B": "Vehicle has right of way",
+                "C": "Slow-moving vehicle or obstruction",
+                "D": "Police escort"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is an appropriate action if you’re involved in a collision?",
+        "options": [
+            {
+                "A": "Drive away if damage is minor",
+                "B": "Exchange details and report if needed",
+                "C": "Argue with the other driver",
+                "D": "Take photos and leave"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does this sign mean: Blue circle with a bicycle symbol?",
+        "options": [
+            {
+                "A": "No bicycles",
+                "B": "Cycle lane – mandatory for cyclists",
+                "C": "Cycle route recommended",
+                "D": "Cyclists give way"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What must you do when you see a school crossing patrol showing a 'STOP' sign?",
+        "options": [
+            {
+                "A": "Continue driving slowly",
+                "B": "Stop only if children are present",
+                "C": "Stop and wait until the sign is lowered",
+                "D": "Flash headlights to acknowledge"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "You're driving in fog. Why should you keep well back from the vehicle in front?",
+        "options": [
+            {
+                "A": "To let other drivers overtake",
+                "B": "In case it stops suddenly",
+                "C": "To avoid dazzling the driver",
+                "D": "Because it improves fuel efficiency"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "When should you use your horn?",
+        "options": [
+            {
+                "A": "To alert others of your presence",
+                "B": "To greet a friend",
+                "C": "To signal annoyance",
+                "D": "When stationary"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does a red traffic light mean?",
+        "options": [
+            {
+                "A": "Stop unless turning",
+                "B": "Go if the road is clear",
+                "C": "Stop and wait behind the line",
+                "D": "Proceed with caution"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does this road sign mean? (White circle with red border)",
+        "options": [
+            {
+                "A": "No entry",
+                "B": "No vehicles",
+                "C": "No waiting",
+                "D": "No overtaking"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "You're waiting to turn right at a junction. An oncoming driver is turning right too. What's the safest option?",
+        "options": [
+            {
+                "A": "Turn right in front of them",
+                "B": "Wait and turn behind them",
+                "C": "Flash your headlights",
+                "D": "Proceed together"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Why should you check your mirrors before slowing down?",
+        "options": [
+            {
+                "A": "To look for road signs",
+                "B": "To check your appearance",
+                "C": "To see what's behind",
+                "D": "To check for potholes"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is a 'blind spot'?",
+        "options": [
+            {
+                "A": "The area directly behind your car",
+                "B": "An area not visible in mirrors",
+                "C": "The shaded part of the mirror",
+                "D": "A dirty windscreen area"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the meaning of a blue circular road sign?",
+        "options": [
+            {
+                "A": "A warning",
+                "B": "A mandatory instruction",
+                "C": "An advisory instruction",
+                "D": "A restriction"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does a broken white line in the centre of the road mean?",
+        "options": [
+            {
+                "A": "Overtaking not allowed",
+                "B": "Lane merging",
+                "C": "Hazard warning",
+                "D": "Centre line – overtake if safe"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "How can you help avoid congestion on a motorway?",
+        "options": [
+            {
+                "A": "Drive close to the car in front",
+                "B": "Brake hard",
+                "C": "Keep to your lane and avoid unnecessary lane changes",
+                "D": "Frequently change lanes"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "When are you allowed to stop on a motorway?",
+        "options": [
+            {
+                "A": "When tired",
+                "B": "When picking up passengers",
+                "C": "In an emergency",
+                "D": "To check directions"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What colour are the reflective studs between the lanes on a motorway?",
+        "options": [
+            {
+                "A": "Red",
+                "B": "White",
+                "C": "Amber",
+                "D": "Green"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the purpose of a catalytic converter?",
+        "options": [
+            {
+                "A": "To reduce fuel consumption",
+                "B": "To clean exhaust gases",
+                "C": "To boost engine power",
+                "D": "To increase speed"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What should you do when driving on a wet road?",
+        "options": [
+            {
+                "A": "Drive in the centre of the road",
+                "B": "Maintain normal speed",
+                "C": "Keep a safe distance",
+                "D": "Use hazard lights"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does a red and white triangular sign mean?",
+        "options": [
+            {
+                "A": "Mandatory instruction",
+                "B": "Roadwork notice",
+                "C": "Warning",
+                "D": "Direction"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What's the purpose of yellow zigzag lines outside a school?",
+        "options": [
+            {
+                "A": "Loading and unloading",
+                "B": "Emergency parking",
+                "C": "No stopping or parking",
+                "D": "Pick-up zone"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What should you do when approaching a roundabout?",
+        "options": [
+            {
+                "A": "Speed up",
+                "B": "Give way to traffic from the left",
+                "C": "Give way to traffic from the right",
+                "D": "Always stop"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "If you’re dazzled by headlights at night, you should:",
+        "options": [
+            {
+                "A": "Close your eyes briefly",
+                "B": "Slow down or stop if necessary",
+                "C": "Flash your headlights",
+                "D": "Accelerate away"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What should you do if you miss your exit on a motorway?",
+        "options": [
+            {
+                "A": "Reverse carefully",
+                "B": "Make a U-turn",
+                "C": "Continue to the next exit",
+                "D": "Stop and check map"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "You see a car with a flashing green light. Who is it likely to be?",
+        "options": [
+            {
+                "A": "A doctor on call",
+                "B": "A taxi",
+                "C": "A breakdown recovery",
+                "D": "A police car"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "When must you switch your headlights from high to dipped beam?",
+        "options": [
+            {
+                "A": "When driving in town",
+                "B": "When overtaking",
+                "C": "When you see an oncoming vehicle",
+                "D": "At traffic lights"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does ABS stand for?",
+        "options": [
+            {
+                "A": "Advanced Braking System",
+                "B": "Anti-Brake Skid",
+                "C": "Anti-lock Braking System",
+                "D": "Automatic Brake System"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is coasting?",
+        "options": [
+            {
+                "A": "Driving at a constant speed",
+                "B": "Driving with the clutch pressed or in neutral",
+                "C": "Driving downhill",
+                "D": "Driving slowly"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "When can you use fog lights?",
+        "options": [
+            {
+                "A": "In heavy rain",
+                "B": "At night",
+                "C": "In fog or falling snow",
+                "D": "When parked"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What’s the typical stopping distance at 30 mph in dry conditions?",
+        "options": [
+            {
+                "A": "12 metres",
+                "B": "23 metres",
+                "C": "36 metres",
+                "D": "6 metres"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What should you do if your mobile rings while driving?",
+        "options": [
+            {
+                "A": "Answer it quickly",
+                "B": "Stop in a safe place before answering",
+                "C": "Use speaker mode",
+                "D": "Ignore it"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is an MOT test?",
+        "options": [
+            {
+                "A": "A fuel check",
+                "B": "A theory test",
+                "C": "A safety and roadworthiness check",
+                "D": "An engine performance test"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Why should you test your brakes after driving through deep water?",
+        "options": [
+            {
+                "A": "To dry them",
+                "B": "To stop quickly",
+                "C": "To check noise",
+                "D": "To improve performance"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the national speed limit on motorways for cars?",
+        "options": [
+            {
+                "A": "60 mph",
+                "B": "70 mph",
+                "C": "80 mph",
+                "D": "90 mph"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "When must you use your headlights at night?",
+        "options": [
+            {
+                "A": "Only on unlit roads",
+                "B": "When visibility is reduced",
+                "C": "At all times",
+                "D": "Between sunset and sunrise"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Why should you avoid tailgating?",
+        "options": [
+            {
+                "A": "To save fuel",
+                "B": "To avoid collision",
+                "C": "To improve view",
+                "D": "To make the driver move"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "You see a sign with a car and motorcycle in red circle. What does it mean?",
+        "options": [
+            {
+                "A": "No overtaking",
+                "B": "No motor vehicles",
+                "C": "No entry",
+                "D": "Clearway"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the meaning of a blue sign with a white arrow pointing down left?",
+        "options": [
+            {
+                "A": "No entry",
+                "B": "Turn left",
+                "C": "Keep left",
+                "D": "One-way"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What’s the legal minimum age to hold a UK provisional driving licence?",
+        "options": [
+            {
+                "A": "15",
+                "B": "16",
+                "C": "17",
+                "D": "18"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does this sign mean: red circle, white background, no symbols?",
+        "options": [
+            {
+                "A": "No vehicles",
+                "B": "No entry",
+                "C": "Stop",
+                "D": "Give way"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What should you do if an emergency vehicle is approaching with lights and siren?",
+        "options": [
+            {
+                "A": "Speed up",
+                "B": "Brake harshly",
+                "C": "Move left and let it pass",
+                "D": "Stop immediately"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does a yellow line along the edge of the road mean?",
+        "options": [
+            {
+                "A": "Waiting restrictions",
+                "B": "Parking permitted",
+                "C": "Bus lane",
+                "D": "No overtaking"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "What type of sign is a circular sign with a blue background?",
+        "options": [
+            {
+                "A": "Warning",
+                "B": "Direction",
+                "C": "Information",
+                "D": "Mandatory instruction"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "What does a flashing red light at a level crossing mean?",
+        "options": [
+            {
+                "A": "Stop",
+                "B": "Proceed with caution",
+                "C": "Stop only if train is visible",
+                "D": "Slow down"
+            }
+        ],
+        "correct_answer": "A"
     }
-    ]
+]
 }
